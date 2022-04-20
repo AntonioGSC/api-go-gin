@@ -1,4 +1,4 @@
-module github.com/AntonioGSC/api-go-gin.git
+module github.com/AntonioGSC/api-go-gin
 
 go 1.18
 
